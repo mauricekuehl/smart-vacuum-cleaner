@@ -1,6 +1,7 @@
 # smart-vacuum-cleaner
 #### This was a school project to create a smart grid based vacuum cleaner. 
 *it is pure bad slow spagetti code*
+*Everyone starts somewhere :). I have this repo publicly out of principle and to show my progress.*
 ## How the program works 
 First, the robot makes a circuit where the first priority is to go right, the second to go 
 straight ahead, then left and backwards. (This is after testing the best combination I could achieve).  
